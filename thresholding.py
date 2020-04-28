@@ -7,4 +7,4 @@ vectImgIn = []
 vectTree = []
 
 
-print("hello")
+print("Trabajo Thresholding--Grupo 09")
