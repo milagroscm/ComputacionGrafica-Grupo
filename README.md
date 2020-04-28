@@ -1,7 +1,7 @@
 # ComputacionGrafica-Grupo
 
 
-GRUPO CONFORMADO POR:
+GRUPO 09 CONFORMADO POR:
 
 
 CRUZ MILAGROS (milagroscm)
